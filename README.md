@@ -9,5 +9,5 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jamesjcsparks/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jamesjcsparks/azure-network-protocols)
-- [Project For CourseCareers]
-  (https://github.com/jamesjcsparks/project-coursecareers)
+- Project For Course Careers
+https://github.com/jamesjcsparks/project-coursecareers
